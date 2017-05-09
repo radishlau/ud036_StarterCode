@@ -1,8 +1,8 @@
-# Pak's Movie Trailer Webstite
+# Pak's Favourite Movies
 Source code for a Movie Trailer website
 
 ## Content
-The website
+Check out my favorite movies and their trailers.
 
 ## Getting Started
 The following code generates and run the website.
