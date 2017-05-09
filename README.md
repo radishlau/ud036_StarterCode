@@ -8,7 +8,7 @@ The website
 The following code generates and run the website.
 
 ```
-python entertainment_center
+python entertainment_center.py
 ```
 
 
